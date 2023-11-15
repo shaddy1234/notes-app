@@ -21,6 +21,7 @@ export default function App() {
     }, [notes])
 
     function createNewNote() {
+        
         const newNote = {
             id: nanoid(),
             body: "# Type your markdown note's title here"

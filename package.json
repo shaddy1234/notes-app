@@ -4,7 +4,7 @@
     "nanoid": "3.1.28",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-mde": "11.5.0",
+    "remdeact-": "11.5.0",
     "react-split": "2.0.13",
     "showdown": "1.9.1"
   },
